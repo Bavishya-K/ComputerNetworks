@@ -1,4 +1,4 @@
-CB19541 - Computer Networks
+CS19541 - Computer Networks
 
 Name : Bavishya K
 
